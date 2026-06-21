@@ -67,3 +67,5 @@ Amethyst 💎: 3 per level, hidden in secrets. Requires a pickaxe to mine.
 
 Blue Buttercup 🌸: Main currency.
 
+# © By QTwiSe Studio ©
+

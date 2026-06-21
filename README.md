@@ -53,11 +53,17 @@ Mythic: up to 200 🌸
 "Mr. Carp's Unique Collection": up to 2,500 🌸 (Includes the TSK 2 Human-Perch skin).
 Note: To afford this after the campaign, the player must complete 4,820 levels in Endless Mode. 🎮
 
-🍎 Items & Objects
+## 🍎 Items & Objects
 Environment: Platforms resembling punch cards, scattered cakes, cherries, and amethysts.
 Cherry 🍒: Restores +1 HP (Max HP: 2).
+
 Cake 🍰: +1 HP + Shield (Blocks one incoming hit).
+
 Lapis Cherry 🫐: +1 HP + Temporary extra heart (Minecraft style).
+
 Pyotr’s Firecracker (TNT) 🧨: Trap. Ignites on contact, explodes after 1.5s. Deals 1 HP damage if caught in the blast.
+
 Amethyst 💎: 3 per level, hidden in secrets. Requires a pickaxe to mine.
+
 Blue Buttercup 🌸: Main currency.
+

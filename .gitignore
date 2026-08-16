@@ -19,6 +19,5 @@ obj/
 # Специфичные файлы редакторов кода (VS Code, Visual Studio, Rider)
 .vscode/
 .idea/
-*.sln
-*.csproj
+
 

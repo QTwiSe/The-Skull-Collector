@@ -1,0 +1,24 @@
+# Временные файлы и кэш самого Godot
+.godot/
+*.uid
+
+# Логи и импортированные ассеты (Godot сам пересоберет их при запуске)
+.import/
+export_presets.cfg
+
+# Файлы сборки Mono/C# и кэш компилятора
+.mono/
+data_*/
+mono_crash_release.*
+[Dd]ebug/
+[Rr]elease/
+bld/
+bin/
+obj/
+
+# Специфичные файлы редакторов кода (VS Code, Visual Studio, Rider)
+.vscode/
+.idea/
+*.sln
+*.csproj
+export_presets.cfg
